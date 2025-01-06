@@ -7,3 +7,9 @@ The Google Classroom invite link is [https://classroom.google.com/c/NzMzNDI2NjQy
 The Google Classroom classwork link is [https://classroom.google.com/w/NzQzNjIzNTE0NzU3/t/all](https://classroom.google.com/w/NzQzNjIzNTE0NzU3/t/all)
 
 The Discord channel is [https://discord.gg/b2d4Zcnad3](https://discord.gg/b2d4Zcnad3)
+
+<br>
+
+# Classwork/Homework
+
+HW1 [https://classroom.github.com/a/S0EkEnfM](https://classroom.github.com/a/S0EkEnfM)
