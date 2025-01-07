@@ -13,3 +13,5 @@ The Discord channel is [https://discord.gg/b2d4Zcnad3](https://discord.gg/b2d4Zc
 # Classwork/Homework
 
 HW1 [https://classroom.github.com/a/S0EkEnfM](https://classroom.github.com/a/S0EkEnfM)
+
+HW2 [https://classroom.github.com/a/u04TdNpv](https://classroom.github.com/a/u04TdNpv)
