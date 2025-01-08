@@ -10,6 +10,5 @@ The Discord channel is [https://discord.gg/b2d4Zcnad3](https://discord.gg/b2d4Zc
 
 <br>
 
-# Classwork/Homework
 
-HW1 [https://classroom.github.com/a/S0EkEnfM](https://classroom.github.com/a/S0EkEnfM)
+GitHub [https://github.com/2567-2-Programming2](https://github.com/2567-2-Programming2)
