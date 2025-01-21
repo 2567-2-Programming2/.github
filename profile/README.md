@@ -21,3 +21,7 @@ HW3 [https://classroom.github.com/a/0yFxeVT3](https://classroom.github.com/a/0yF
 HW4 [https://classroom.github.com/a/eL-pE1wd](https://classroom.github.com/a/eL-pE1wd)
 
 HW5 [https://classroom.github.com/a/hdxlPSjh](https://classroom.github.com/a/hdxlPSjh)
+
+HW6 [https://classroom.github.com/a/mwltbTlG](https://classroom.github.com/a/mwltbTlG)
+
+HW7 [https://classroom.github.com/a/FAS5JfWn](https://classroom.github.com/a/FAS5JfWn)
