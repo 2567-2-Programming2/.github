@@ -26,4 +26,4 @@ HW6 [https://classroom.github.com/a/mwltbTlG](https://classroom.github.com/a/mwl
 
 HW7 [https://classroom.github.com/a/FAS5JfWn](https://classroom.github.com/a/FAS5JfWn)
 
-HW8 [https://classroom.github.com/a/6HlRoKnh] (https://classroom.github.com/a/6HlRoKnh)
+HW8 [https://classroom.github.com/a/6HlRoKnh](https://classroom.github.com/a/6HlRoKnh)
