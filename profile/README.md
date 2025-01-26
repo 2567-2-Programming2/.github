@@ -11,27 +11,61 @@ The Discord channel is [https://discord.gg/b2d4Zcnad3](https://discord.gg/b2d4Zc
 <br>
 
 # Classwork/Homework
+- Grading is based on the last submission (commit and push). Submissions after the deadline will be considered late.
+
+- Late or incorrect results will result in a score deduction (separate deductions for each case). 
+- The penalty for plagiarism (including copying or using AI without understanding) is a maximum grade of F and suspension.
 
 HW1 [https://classroom.github.com/a/S0EkEnfM](https://classroom.github.com/a/S0EkEnfM)
-First Assignment (Work with GitHub Classroom): ASCII Emoji with Input/Output
+Due on Jan 7, 2025, 16:59 UTC
+<br/>First Assignment (Work with GitHub Classroom): ASCII Emoji with Input/Output
 
 HW2 [https://classroom.github.com/a/u04TdNpv](https://classroom.github.com/a/u04TdNpv)
-Review OOP Concepts with Classes (Triangle and Rectangle)
+Due on Jan 14, 2025, 16:59 UTC
+<br/>Review OOP Concepts with Classes (Triangle and Rectangle)
 
 HW3 [https://classroom.github.com/a/0yFxeVT3](https://classroom.github.com/a/0yFxeVT3)
-Transaction with Customer and Product Assignment
+Due on Jan 19, 2025, 16:59 UTC
+<br/>Transaction with Customer and Product Assignment
 
 HW4 [https://classroom.github.com/a/eL-pE1wd](https://classroom.github.com/a/eL-pE1wd)
-Snake (In-Class Example)
+Due on Jan 21, 2025, 16:59 UTC
+<br/>Snake (In-Class Example)
 
 HW5 [https://classroom.github.com/a/hdxlPSjh](https://classroom.github.com/a/hdxlPSjh)
-Example 2.9 from the Lecture Note
+Due on Jan 26, 2025, 16:59 UTC
+<br/>Example 2.9 from the Lecture Note
 
 HW6 [https://classroom.github.com/a/mwltbTlG](https://classroom.github.com/a/mwltbTlG)
-MyDate Class Assignment
+Due on Jan 26, 2025, 16:59 UTC
+<br/>MyDate Class Assignment
 
 HW7 [https://classroom.github.com/a/FAS5JfWn](https://classroom.github.com/a/FAS5JfWn)
-Modification of Shake is made to consist of N foods (submitted with parameter 10).
+Due on Jan 21, 2025, 16:59 UTC
+<br/>Modification of Shake is made to consist of N foods (submitted with parameter 10).
 
 HW8 [https://classroom.github.com/a/6HlRoKnh](https://classroom.github.com/a/6HlRoKnh)
-Modeling Applications with Objects: Submit the code (including all files) that we worked on together in class (22 Jan) here.
+Due on Jan 22, 2025, 06:00 UTC
+<br/>Modeling Applications with Objects: Submit the code (including all files) that we worked on together in class (22 Jan) here.
+
+
+<br>
+
+# Check the Homework/Classwork Grading
+Your task is to implement code based on the assignment questions/instructions. If anything is unclear, you must ask for clarification.
+Do not assume that simply checking the homework and saying “OK” guarantees a correct answer.
+
+Check the Homework/Classwork grading at [http://hw.let.rocks/](http://hw.let.rocks/).
+<br>The provided link is only for reference to the final result (and for discussion with me if you strongly believe you are correct).
+
+The test cases here are designed to verify your work and align with the assignment questions. They also serve as hidden test cases that you are not meant to see.
+
+
+<br>
+
+# UTC Time
+To convert UTC to Thailand time, you simply add 7 hours to the UTC time.
+
+Example:
+	•	UTC time: 16:59 PM
+	•	Thailand time (UTC +7): 23:59 PM
