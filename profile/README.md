@@ -17,35 +17,35 @@ The Discord channel is [https://discord.gg/b2d4Zcnad3](https://discord.gg/b2d4Zc
 - The penalty for plagiarism (including copying or using AI without understanding) is a maximum grade of F and suspension.
 
 HW1 [https://classroom.github.com/a/S0EkEnfM](https://classroom.github.com/a/S0EkEnfM)
-Due on Jan 7, 2025, 16:59 UTC
+Due Jan 7, 2025, 16:59 UTC
 <br/>First Assignment (Work with GitHub Classroom): ASCII Emoji with Input/Output
 
 HW2 [https://classroom.github.com/a/u04TdNpv](https://classroom.github.com/a/u04TdNpv)
-Due on Jan 14, 2025, 16:59 UTC
+Due Jan 14, 2025, 16:59 UTC
 <br/>Review OOP Concepts with Classes (Triangle and Rectangle)
 
 HW3 [https://classroom.github.com/a/0yFxeVT3](https://classroom.github.com/a/0yFxeVT3)
-Due on Jan 19, 2025, 16:59 UTC
+Due Jan 19, 2025, 16:59 UTC
 <br/>Transaction with Customer and Product Assignment
 
 HW4 [https://classroom.github.com/a/eL-pE1wd](https://classroom.github.com/a/eL-pE1wd)
-Due on Jan 21, 2025, 16:59 UTC
+Due Jan 21, 2025, 16:59 UTC
 <br/>Snake (In-Class Example)
 
 HW5 [https://classroom.github.com/a/hdxlPSjh](https://classroom.github.com/a/hdxlPSjh)
-Due on Jan 26, 2025, 16:59 UTC
+Due Jan 26, 2025, 16:59 UTC
 <br/>Example 2.9 from the Lecture Note
 
 HW6 [https://classroom.github.com/a/mwltbTlG](https://classroom.github.com/a/mwltbTlG)
-Due on Jan 26, 2025, 16:59 UTC
+Due Jan 26, 2025, 16:59 UTC
 <br/>MyDate Class Assignment
 
 HW7 [https://classroom.github.com/a/FAS5JfWn](https://classroom.github.com/a/FAS5JfWn)
-Due on Jan 21, 2025, 16:59 UTC
+Due Jan 21, 2025, 16:59 UTC
 <br/>Modification of Shake is made to consist of N foods (submitted with parameter 10).
 
 HW8 [https://classroom.github.com/a/6HlRoKnh](https://classroom.github.com/a/6HlRoKnh)
-Due on Jan 22, 2025, 06:00 UTC
+Due Jan 22, 2025, 06:00 UTC
 <br/>Modeling Applications with Objects: Submit the code (including all files) that we worked on together in class (22 Jan) here.
 
 
