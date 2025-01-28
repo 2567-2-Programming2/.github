@@ -47,6 +47,7 @@ Due Jan 21, 2025, 16:59 UTC
 HW8 [https://classroom.github.com/a/6HlRoKnh](https://classroom.github.com/a/6HlRoKnh)
 Due Jan 22, 2025, 06:00 UTC
 <br/>Modeling Applications with Objects: Submit the code (including all files) that we worked on together in class (22 Jan) here.
+<br/>The submission of this work is the initial Banking project with a class method to record customer information.
 
 HW9 [https://classroom.github.com/a/YhZsv_Ow](https://classroom.github.com/a/YhZsv_Ow)
 Due Feb 16, 2025, 16:59 UTC
