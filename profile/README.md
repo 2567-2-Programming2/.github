@@ -48,6 +48,9 @@ HW8 [https://classroom.github.com/a/6HlRoKnh](https://classroom.github.com/a/6Hl
 Due Jan 22, 2025, 06:00 UTC
 <br/>Modeling Applications with Objects: Submit the code (including all files) that we worked on together in class (22 Jan) here.
 
+HW8 [https://classroom.github.com/a/YhZsv_Ow](https://classroom.github.com/a/YhZsv_Ow)
+Due Feb 16, 2025, 16:59 UTC
+<br/>Banking (This work is scored double: The completed project, The UML class diagram.)
 
 <br>
 
