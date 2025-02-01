@@ -11,9 +11,6 @@ The Discord channel is [https://discord.gg/b2d4Zcnad3](https://discord.gg/b2d4Zc
 <br>
 
 # Classwork/Homework
-- Grading is based on the last submission (commit and push). Submissions after the deadline will be considered late.
-
-- Late or incorrect results will result in a score deduction (separate deductions for each case). 
 - The penalty for plagiarism (including copying or using AI without understanding) is a maximum grade of F and suspension.
 
 HW1 [https://classroom.github.com/a/S0EkEnfM](https://classroom.github.com/a/S0EkEnfM)
