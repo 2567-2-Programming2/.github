@@ -54,6 +54,9 @@ HW10 [https://classroom.github.com/a/ltGU95ML](https://classroom.github.com/a/lt
 Due Feb 16, 2025, 16:59 UTC
 <br>Train fares calculator
 
+HW11 [https://classroom.github.com/a/ddiEgHgc](https://classroom.github.com/a/ddiEgHgc)
+<br>This task is a repository to submit the Tetris game (must be in color).
+
 <br>
 
 # Check the Homework/Classwork Grading
