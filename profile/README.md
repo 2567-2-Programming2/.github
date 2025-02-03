@@ -50,6 +50,10 @@ HW9 [https://classroom.github.com/a/YhZsv_Ow](https://classroom.github.com/a/YhZ
 Due Feb 16, 2025, 16:59 UTC
 <br/>Banking (This work is scored double: The completed project, The UML class diagram.)
 
+HW10 [https://classroom.github.com/a/ltGU95ML](https://classroom.github.com/a/ltGU95ML)
+Due Feb 16, 2025, 16:59 UTC
+<br>Train fares calculator
+
 <br>
 
 # Check the Homework/Classwork Grading
