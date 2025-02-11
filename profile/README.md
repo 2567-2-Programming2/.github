@@ -58,6 +58,9 @@ HW11 [https://classroom.github.com/a/ddiEgHgc](https://classroom.github.com/a/dd
 Due Feb 16, 2025, 16:59 UTC
 <br>This task is a repository to submit the Tetris game (must be in color).
 
+HW12 [https://classroom.github.com/a/CUTANYgj](https://classroom.github.com/a/CUTANYgj)
+Due Feb 21, 2025, 16:59 UTC
+
 <br>
 
 # Check the Homework/Classwork Grading
