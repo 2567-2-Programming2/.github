@@ -63,6 +63,9 @@ Due Feb 21, 2025, 16:59 UTC
 <br>You have to make sure your code is optimized for speed. The calculation should use lazy evaluation. To check if a number is prime, we don’t need to check up to p-1.
 Hint: Previously checked prime numbers should be retrieved without rechecking.
 
+
+HW13 [https://classroom.github.com/a/X3UDQhyI](https://classroom.github.com/a/X3UDQhyI)
+Due March 9, 2025, 16:59 UTC
 <br>
 
 # Check the Homework/Classwork Grading
