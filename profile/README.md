@@ -65,6 +65,14 @@ Hint: Previously checked prime numbers should be retrieved without rechecking.
 
 HW13 [https://classroom.github.com/a/X3UDQhyI](https://classroom.github.com/a/X3UDQhyI)
 Due March 10, 2025, 16:59 UTC
+
+
+HW14 [https://classroom.github.com/a/PUs3f57n](https://classroom.github.com/a/PUs3f57n)
+Due March 17, 2025, 16:59 UTC
+
+
+***The grading will be strict, and no work will be accepted after the due date: March 17, 2025, 16:59 UTC
+
 <br>
 
 # Check the Homework/Classwork Grading
